@@ -1,0 +1,12 @@
+F -> E, A, 
+B -> C, A, 
+A -> F, B, 
+D -> E, C, 
+C -> D, B, 
+E -> F, D, 
+RECURSIVE APPROACH
+A F E D C B 
+ITERATIVE APPROACH
+A F E D C B 
+A F B E C D 
+A F B E C D 9

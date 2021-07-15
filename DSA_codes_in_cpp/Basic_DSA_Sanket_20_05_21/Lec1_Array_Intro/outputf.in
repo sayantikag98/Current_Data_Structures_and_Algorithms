@@ -1,0 +1,35 @@
+c c c c c 
+SIZE --> 5
+CAPACITY --> 5
+c c c c c d 
+SIZE --> 6
+CAPACITY --> 10
+c c c c c d d 
+SIZE --> 7
+CAPACITY --> 10
+c c c c c d d d 
+SIZE --> 8
+CAPACITY --> 10
+c c c c c d d d d 
+SIZE --> 9
+CAPACITY --> 10
+c c c c c d d d d d 
+SIZE --> 10
+CAPACITY --> 10
+c c c c c d d d d d d 
+SIZE --> 11
+CAPACITY --> 20
+c c c c c d d d d d d d 
+SIZE --> 12
+CAPACITY --> 20
+c c c c c d d d d d d d d 
+SIZE --> 13
+CAPACITY --> 20
+c c c c c d d d d d d d d d 
+SIZE --> 14
+CAPACITY --> 20
+c c c c c d d d d d d d d d d 
+SIZE --> 15
+CAPACITY --> 20
+c
+Pc
